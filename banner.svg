@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Robert-Ion Bolfă — Backend &amp; Distributed Systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1200V170C1050 215 900 140 750 165C600 190 450 215 300 185C180 160 80 175 0 195Z" fill="url(#bg)"/>
+  <path d="M0 195C80 175 180 160 300 185C450 215 600 190 750 165C900 140 1050 215 1200 170" fill="none" stroke="#5fb3c9" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="600" y="88" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">Robert-Ion Bolfă</text>
+  <text x="600" y="128" text-anchor="middle" fill="#cfe6ee" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="1">Backend &amp; Distributed Systems · Local AI Pipelines</text>
+</svg>
