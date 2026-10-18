@@ -12,12 +12,15 @@
 
 ### Hi, I'm Robert 👋
 
-Computer Science and Engineering graduate from **UPB (Automatic Control and Computers)**, now an M.Sc. student in Bucharest.
-I like building **backend and distributed systems** and **fully local AI pipelines**. Right now I'm going deep on **Java** for backend roles.
+It started with games that ran badly. Instead of giving up, I wanted to know why: I read up on CPUs, GPUs and bottlenecks until I understood it, then built my first PC myself. I've worked the same way ever since: when something doesn't make sense, I dig in until I see how it works and why it was built that way.
+
+Computer Science and Engineering graduate from UPB (Automatic Control and Computers), now an M.Sc. student in Bucharest. I like building backend and distributed systems and fully local AI pipelines, and right now I'm going deep on Java for backend roles.
 
 - 🔭 Latest work: a local OCR + RAG pipeline that digitizes 1970s–80s Romanian archives, built with the Institute of World Economy
 - 🌱 Currently learning: Spring Boot, Java concurrency, and grinding the Blind 75
 - 💬 Ask me about: reading-order reconstruction, distributed locking, RAG retrieval
+- 🏊 Before code: 10 years of competitive swimming, where I learned that progress comes from showing up every day, not from motivation
+- 🎮 Off the clock: gaming, and following tech news: new GPUs, phones and hardware launches, plus what's new in software and AI
 
 ---
 
