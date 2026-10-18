@@ -3,8 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Robert-Ion%20Bolf%C4%83&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Backend%20%26%20Distributed%20Systems%20%C2%B7%20Local%20AI%20Pipelines&descAlignY=60&descSize=16" alt="Robert-Ion Bolfă — Backend & Distributed Systems" width="100%"/>
-
+<img src="banner.svg" alt="Robert-Ion Bolfă — Backend & Distributed Systems" width="100%"/>
 <a href="https://www.linkedin.com/in/robert-ion-bolfa-b0a838254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:robertbolfaion@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Bucharest%2C%20Romania-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bucharest, Romania"/>
