@@ -28,9 +28,9 @@ Computer Science and Engineering graduate from UPB (Automatic Control and Comput
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Historical Document OCR Pipeline**](https://github.com/Robert326/Special-OCR-Pipeline-for-specific-romanian-documents) *(B.Sc. thesis)* | Fully local pipeline for confidential archives: geometric reading-order reconstruction cut CER from ~72% to under 4% vs. raw OCR; **96.25% character accuracy** on an unseen 31-page document; hybrid RAG for questions in Romanian | Python · OpenCV · Surya · Ollama · ChromaDB |
-| [**TicketFlow**](https://github.com/Robert326/TicketFlow) | Distributed ticketing platform: 8 microservices on Docker Swarm, Redis distributed locks against double-booking, async PDF tickets via RabbitMQ workers | Python · Flask · Redis · RabbitMQ · Keycloak |
-| [**PC Builder Inventory Manager**](https://github.com/Robert326/PC-Builder-Inventory-Manager) | Full-stack app for building PCs from catalog parts: REST API with JWT auth, Repository/Specification patterns, React frontend | C# · ASP.NET Core · PostgreSQL · React |
+| [**Historical Document OCR Pipeline**](https://github.com/Robert326/ro-archive-ocr) *(B.Sc. thesis)* | Fully local pipeline for confidential archives: geometric reading-order reconstruction cut CER from ~72% to under 4% vs. raw OCR; **96.25% character accuracy** on an unseen 31-page document; hybrid RAG for questions in Romanian | Python · OpenCV · Surya · Ollama · ChromaDB |
+| [**TicketFlow**](https://github.com/Robert326/ticket-flow) | Distributed ticketing platform: 8 microservices on Docker Swarm, Redis distributed locks against double-booking, async PDF tickets via RabbitMQ workers | Python · Flask · Redis · RabbitMQ · Keycloak |
+| [**Pc-Builder**](https://github.com/Robert326/pc-builder) | Full-stack app for building PCs from catalog parts: REST API with JWT auth, Repository/Specification patterns, React frontend | C# · ASP.NET Core · PostgreSQL · React |
 
 ---
 
