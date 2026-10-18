@@ -14,7 +14,7 @@
 
 It started with games that ran badly. Instead of giving up, I wanted to know why: I read up on CPUs, GPUs and bottlenecks until I understood it, then built my first PC myself. I've worked the same way ever since: when something doesn't make sense, I dig in until I see how it works and why it was built that way.
 
-Computer Science and Engineering graduate from UPB (Automatic Control and Computers), now an M.Sc. student in Bucharest. I like building backend and distributed systems and fully local AI pipelines, and right now I'm going deep on Java for backend roles.
+Computer Science and Engineering graduate from UPB (Automatic Control and Computers), now an M.Sc. student in Bucharest. I’m still finding my favorite corner of software, and so far I’ve enjoyed all of it: web apps, systems that juggle many users at once, and AI tools that run on my own machine. Right now I’m going deep on Java.
 
 - 🔭 Latest work: a local OCR + RAG pipeline that digitizes 1970s–80s Romanian archives, built with the Institute of World Economy
 - 🌱 Currently learning: Spring Boot, Java concurrency, and grinding the Blind 75
